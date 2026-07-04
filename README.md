@@ -13,9 +13,11 @@ I'm Anurag, an Android developer passionate about building mobile apps and explo
 - [Increase High Volume (Kotlin + XML)](https://play.google.com/store/apps/details?id=com.increasehighvolumne.soundbooster)
 - [Nova Prompt (Kotlin + XML, MERN Stack)](https://play.google.com/store/apps/details?id=com.novaprompt.app)
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Anurag-spec1&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-spec1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 📊 GitHub Statistics
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anurag-spec1&theme=tokyonight)
+
+![](https://streak-stats.demolab.com?user=Anurag-spec1&theme=tokyonight&hide_border=true)
 
 ## 🌟 Contribution Stats
 ![](https://github-readme-stats.vercel.app/api?username=Anurag-spec1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)

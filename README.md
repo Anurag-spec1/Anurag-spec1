@@ -13,44 +13,11 @@ I'm Anurag, an Android developer passionate about building mobile apps and explo
 - [Increase High Volume (Kotlin + XML)](https://play.google.com/store/apps/details?id=com.increasehighvolumne.soundbooster)
 - [Nova Prompt (Kotlin + XML, MERN Stack)](https://play.google.com/store/apps/details?id=com.novaprompt.app)
 
-<img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a2e0e801f82.gif" width="30">&nbsp;**_GitHub Statistics_**
+## 📊 GitHub Statistics
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anurag-spec1&theme=tokyonight)
 
-<br>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=Anurag-spec1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=5"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=Anurag-spec1&theme=flat&no-frame=true&no-bg=true&margin-w=15&row=2&column=5"/>
-    <img src="https://github-trophies.vercel.app/?username=Anurag-spec1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=5" width="100%" alt="GitHub Trophies"/>
-  </picture>
-</p>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-two-blond-83.vercel.app/api?username=Anurag-spec1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=Anurag%20Shrivastav's%20GitHub%20Stats"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-two-blond-83.vercel.app/api?username=Anurag-spec1&show_icons=true&theme=default&hide_border=true&count_private=true&custom_title=Anurag%20Shrivastav's%20GitHub%20Stats"/>
-    <img width="49%" src="https://github-readme-stats-two-blond-83.vercel.app/api?username=Anurag-spec1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=Anurag%20Shrivastav's%20GitHub%20Stats" alt="Anurag Shrivastav GitHub Stats"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Anurag-spec1&theme=tokyonight&hide_border=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Anurag-spec1&theme=default&hide_border=true"/>
-    <img width="49%" src="https://streak-stats.demolab.com?user=Anurag-spec1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-two-blond-83.vercel.app/api/top-langs/?username=Anurag-spec1&layout=compact&hide_border=true&theme=tokyonight"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-two-blond-83.vercel.app/api/top-langs/?username=Anurag-spec1&layout=compact&hide_border=true&theme=default"/>
-    <img width="35%" src="https://github-readme-stats-two-blond-83.vercel.app/api/top-langs/?username=Anurag-spec1&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
-  </picture>
-</div>
-
-<br>
+![](https://streak-stats.demolab.com?user=Anurag-spec1&theme=tokyonight&hide_border=true)
 
 ## 🌟 Contribution Stats
 ![](https://github-readme-stats.vercel.app/api?username=Anurag-spec1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)

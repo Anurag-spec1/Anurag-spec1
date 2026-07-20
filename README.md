@@ -29,9 +29,9 @@ I'm Anurag, an Android developer passionate about building mobile apps and explo
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-two-blond-83.vercel.app/api?username=Anurag-spec1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-two-blond-83.vercel.app/api?username=Anurag-spec1&show_icons=true&theme=default&hide_border=true&count_private=true"/>
-    <img width="49%" src="https://github-readme-stats-two-blond-83.vercel.app/api?username=Anurag-spec1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-two-blond-83.vercel.app/api?username=Anurag-spec1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=false&custom_title=Anurag%20Shrivastav's%20GitHub%20Stats%202026"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-two-blond-83.vercel.app/api?username=Anurag-spec1&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=false&custom_title=Anurag%20Shrivastav's%20GitHub%20Stats%202026"/>
+    <img width="49%" src="https://github-readme-stats-two-blond-83.vercel.app/api?username=Anurag-spec1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=false&custom_title=Anurag%20Shrivastav's%20GitHub%20Stats%202026" alt="Anurag Shrivastav GitHub Stats"/>
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Anurag-spec1&theme=tokyonight&hide_border=true"/>
@@ -51,7 +51,6 @@ I'm Anurag, an Android developer passionate about building mobile apps and explo
 </div>
 
 <br>
-
 ## 🌟 Contribution Stats
 ![](https://github-readme-stats.vercel.app/api?username=Anurag-spec1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 

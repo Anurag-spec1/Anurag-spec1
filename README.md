@@ -21,22 +21,22 @@ I'm Anurag, an Android developer passionate about building mobile apps and explo
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=shaki-cell&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=5"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=shaki-cell&theme=flat&no-frame=true&no-bg=true&margin-w=15&row=2&column=5"/>
-    <img src="https://github-trophies.vercel.app/?username=shaki-cell&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=5" width="100%" alt="GitHub Trophies"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=Anurag-spec1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=5"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=Anurag-spec1&theme=flat&no-frame=true&no-bg=true&margin-w=15&row=2&column=5"/>
+    <img src="https://github-trophies.vercel.app/?username=Anurag-spec1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=5" width="100%" alt="GitHub Trophies"/>
   </picture>
 </p>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-two-blond-83.vercel.app/api?username=shaki-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-two-blond-83.vercel.app/api?username=shaki-cell&show_icons=true&theme=default&hide_border=true&count_private=true"/>
-    <img width="49%" src="https://github-readme-stats-two-blond-83.vercel.app/api?username=shaki-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-two-blond-83.vercel.app/api?username=Anurag-spec1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-two-blond-83.vercel.app/api?username=Anurag-spec1&show_icons=true&theme=default&hide_border=true&count_private=true"/>
+    <img width="49%" src="https://github-readme-stats-two-blond-83.vercel.app/api?username=Anurag-spec1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=shaki-cell&theme=tokyonight&hide_border=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=shaki-cell&theme=default&hide_border=true"/>
-    <img width="49%" src="https://streak-stats.demolab.com?user=shaki-cell&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Anurag-spec1&theme=tokyonight&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Anurag-spec1&theme=default&hide_border=true"/>
+    <img width="49%" src="https://streak-stats.demolab.com?user=Anurag-spec1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   </picture>
 </div>
 
@@ -44,9 +44,9 @@ I'm Anurag, an Android developer passionate about building mobile apps and explo
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-two-blond-83.vercel.app/api/top-langs/?username=shaki-cell&layout=compact&hide_border=true&theme=tokyonight"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-two-blond-83.vercel.app/api/top-langs/?username=shaki-cell&layout=compact&hide_border=true&theme=default"/>
-    <img width="35%" src="https://github-readme-stats-two-blond-83.vercel.app/api/top-langs/?username=shaki-cell&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-two-blond-83.vercel.app/api/top-langs/?username=Anurag-spec1&layout=compact&hide_border=true&theme=tokyonight"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-two-blond-83.vercel.app/api/top-langs/?username=Anurag-spec1&layout=compact&hide_border=true&theme=default"/>
+    <img width="35%" src="https://github-readme-stats-two-blond-83.vercel.app/api/top-langs/?username=Anurag-spec1&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
   </picture>
 </div>
 

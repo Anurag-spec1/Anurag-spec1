@@ -1,17 +1,26 @@
 # 🔥 About Me:
 I'm Anurag, an Android developer passionate about building mobile apps and exploring full-stack development. Currently, I'm focused on mastering Kotlin, Java, and GoLang while building and publishing innovative applications.
 
+## 🎯 Career Goals:
+- Master advanced Android development with Jetpack Compose
+- Build scalable backend systems with GoLang
+- Contribute to open-source projects
+- Mentor junior developers
+
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anurag_shrivastav001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-shrivastav)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anurag_shrivastav001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-shrivastav) [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Anurag-spec1)
 
 # 💻 Tech Stacks:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+## 🗄️ Databases & Frameworks:
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![SQL](https://img.shields.io/badge/SQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 
 ## 📱 Published Apps:
-- [Uddaka (Java, PHP, Laravel, SQL)](https://play.google.com/store/apps/details?id=com.xcentic.uddaka)
-- [Uddaka Driver (Java, PHP, Laravel, SQL)](https://play.google.com/store/apps/details?id=com.xcentic.uddakadeliverypartner)
-- [Increase High Volume (Kotlin + XML)](https://play.google.com/store/apps/details?id=com.increasehighvolumne.soundbooster)
-- [Nova Prompt (Kotlin + XML, MERN Stack)](https://play.google.com/store/apps/details?id=com.novaprompt.app)
+- [Uddaka (Java, PHP, Laravel, SQL)](https://play.google.com/store/apps/details?id=com.xcentic.uddaka) - Delivery platform
+- [Uddaka Driver (Java, PHP, Laravel, SQL)](https://play.google.com/store/apps/details?id=com.xcentic.uddakadeliverypartner) - Driver companion app
+- [Increase High Volume (Kotlin + XML)](https://play.google.com/store/apps/details?id=com.increasehighvolumne.soundbooster) - Audio enhancement utility
+- [Nova Prompt (Kotlin + XML, MERN Stack)](https://play.google.com/store/apps/details?id=com.novaprompt.app) - AI-powered prompt generator
 
 ## 📊 GitHub Statistics
 

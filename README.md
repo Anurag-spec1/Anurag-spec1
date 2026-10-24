@@ -1,23 +1,38 @@
-# 🔥 About Me:
-I'm Anurag, an Android developer focused on building practical, scalable, and polished mobile experiences. Currently working on Android apps and backend integrations, learning advanced Kotlin, Java, and GoLang, and exploring Jetpack Compose, API architecture, and scalable backend systems. My goal is to build useful products, contribute to open source, and mentor developers. I'm deeply interested in app architecture, UI/UX design, Firebase, and real-time systems.
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anurag_shrivastav001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-shrivastav) [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anurag-spec1)
+<img src="./assets/hero.svg?v=1" alt="Anurag Shrivastav — Android Developer, Flutter Engineer, Go backend builder" width="100%">
 
-# 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Anurag-spec1&theme=github_dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-spec1&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="./assets/about-life.svg?v=1" alt="What I build: native Android, Flutter apps, real-time mobility features and Go backends" width="100%">
 
-## 🌟 Contribution Stats
-![](https://github-readme-stats.vercel.app/api?username=Anurag-spec1&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)
+<br>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Anurag-spec1&radius=10&theme=react&area=true&order=5&custom_title=Contribution%20Graph)
+<img src="./assets/stack.svg?v=1" alt="Tech stack: Kotlin, Java, Jetpack Compose, Flutter, Go, PostgreSQL, Redis, MongoDB, Firebase, Docker, Prometheus, Grafana" width="100%">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anurag-spec1&theme=radical&no-frame=false&no-bg=false&margin-w=44)
+<br>
 
-[![](https://visitcount.itsvg.in/api?id=Anurag-spec1&icon=0&color=0)](https://visitcount.itsvg.in)
-![](https://komarev.com/ghpvc/?username=Anurag-spec1&color=brightgreen&style=flat)
+<img src="./assets/id-dashboard.svg?v=1" alt="Developer ID badge and verified numbers: 100K+ NovaPrompt installs, 500K+ Increase High Volume Booster installs" width="100%">
+
+</div>
+
+## Projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**NovaPrompt**](https://play.google.com/store/apps/details?id=com.novaprompt.app) | Full-stack AI image-prompt app on Google Play (100K+ installs), with a stateless Go REST API, Redis caching and a PostgreSQL fallback when Redis fails. | Kotlin · MVVM · Paging 3 · Go · PostgreSQL · Redis · Docker |
+| [**Increase High Volume Booster**](https://play.google.com/store/apps/details?id=com.increasehighvolumne.soundbooster) | Audio utility app on Google Play (500K+ installs) built on AudioManager, MediaPlayer and the Equalizer API, with careful resource release to avoid leaks. | Kotlin · Android SDK |
+| [**Bharat Yaatri**](https://play.google.com/store/apps/details?id=com.bhy.user) | Ride-hailing app with live tracking over WebSockets, an offline-first cache and real-time fare negotiation between riders and drivers. Built at Xcentic Technologies alongside the native [Uddaka](https://play.google.com/store/apps/details?id=com.xcentic.uddaka) and [Uddaka Driver](https://play.google.com/store/apps/details?id=com.xcentic.uddakadeliverypartner) apps. | Flutter · Java · WebSockets · Room · Razorpay |
+| [**E-Cell KIET app**](https://play.google.com/store/apps/details?id=com.devshiv.ecellapp) | Event app for E-Summit with QR-based entry validated server-side; I led a team of 7 Android developers on it. | Android · Kotlin |
+
+<div align="center">
+
+<br>
+
+<img src="./assets/connect.svg?v=1" alt="Connect with Anurag" width="100%">
+
+**[LinkedIn](https://linkedin.com/in/anurag-shrivastav-b7a616327/)** &nbsp;·&nbsp; **[Portfolio](https://contactanurag.in/)** &nbsp;·&nbsp; **[Email](mailto:anurag13360@gmail.com)** &nbsp;·&nbsp; **[GitHub](https://github.com/Anurag-spec1)**
+
+<sub>Fonts: Barlow, Barlow Condensed and JetBrains Mono (SIL OFL 1.1, see <code>assets/licenses</code>). Tech marks from Simple Icons (CC0).</sub>
+
+</div>
